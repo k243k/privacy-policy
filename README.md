@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy policy for my app
+このアプリは、ユーザーの個人情報を収集しません。
